@@ -1,2 +1,2 @@
 # Register-And-Login-Rest-Api
-Auto Login Implemented
+Auto Login Implemented.  Null Safety
